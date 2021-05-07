@@ -18,7 +18,9 @@ Main subject = RFID gates (to control the accuracy of deliveries. And autonomous
 
 Side project (10% of my time) = helping stores manage their overstock. Or small warehouses. Just with a phone. [See Product Locator](https://www.youtube.com/watch?v=l9I4zJUXAFU&t=5s)
 
-📫 How to reach me : fabien.lebas@decathlon.com
+📫 How to reach me : 
+fabien.lebas@decathlon.com
+[Linkedin](https://fr.linkedin.com/in/fabien-lebas-a0770a4a)
 
 <!---
 FabienLebas/FabienLebas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
