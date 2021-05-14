@@ -8,7 +8,7 @@ Currently RFID Leader in Russia. And data team leader
 
 I have a Masters degree in Supply Chain Management in 2001. Supply chain project manager during 8 years.
 
-International experience: 3 years opening new countries for Decathlon (the first store in a new country = Mexico, San Francisco). Now I live since 2018 in Moscow.
+International experience: 2 years opening e-com websites outside of France, 3 years opening new countries for Decathlon (the first store in a new country = Mexico & San Francisco). Since 2018 I live in Moscow.
 
 I have learnt basics of coding during my studies but came to professional level thanks to a 3 months intensive training in 2017. Javascript. NodeJS. React. Coding full-stack.
 
@@ -19,7 +19,6 @@ Main subject = RFID gates (to control the accuracy of deliveries. And autonomous
 Side project (10% of my time) = helping stores manage their overstock. Or small warehouses. Just with a phone. [See Product Locator](https://www.youtube.com/watch?v=l9I4zJUXAFU&t=5s)
 
 📫 How to reach me : 
-fabien.lebas@decathlon.com
 [Linkedin](https://fr.linkedin.com/in/fabien-lebas-a0770a4a)
 
 <!---
