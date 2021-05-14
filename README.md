@@ -1,4 +1,4 @@
-👋 Hi, I’m @FabienLebas ![photo Fabien](https://media-exp1.licdn.com/dms/image/C5603AQF_CFyFLmiHEQ/profile-displayphoto-shrink_100_100/0/1575795209294?e=1625097600&v=beta&t=YzHTp9pVK97ruPwrYJYDXK-rc1AwSQj8yYKQJx97MUE)
+👋 Hi, I’m @FabienLebas !
 
 French. Working at Decathlon since 2002.
 
